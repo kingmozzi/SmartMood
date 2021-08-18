@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LED GUI", "LED GUI\LED GUI.csproj", "{53259CA3-9D41-4EC1-B42A-CC090480BAF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53259CA3-9D41-4EC1-B42A-CC090480BAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53259CA3-9D41-4EC1-B42A-CC090480BAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53259CA3-9D41-4EC1-B42A-CC090480BAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53259CA3-9D41-4EC1-B42A-CC090480BAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25FF9C8-C51C-4ABD-8B65-A0D3D98C7041}
+	EndGlobalSection
+EndGlobal

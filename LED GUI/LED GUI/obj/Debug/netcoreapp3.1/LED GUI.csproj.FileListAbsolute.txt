@@ -1,0 +1,6 @@
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\netcoreapp3.1\LED GUI.csprojAssemblyReference.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\netcoreapp3.1\LED_GUI.Form1.resources
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\netcoreapp3.1\LED GUI.csproj.GenerateResource.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\netcoreapp3.1\LED GUI.AssemblyInfoInputs.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\netcoreapp3.1\LED GUI.AssemblyInfo.cs
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\netcoreapp3.1\LED GUI.csproj.CoreCompileInputs.cache

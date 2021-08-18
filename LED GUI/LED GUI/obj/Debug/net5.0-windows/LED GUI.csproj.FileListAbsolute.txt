@@ -1,0 +1,60 @@
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.exe
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.deps.json
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.runtimeconfig.json
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.runtimeconfig.dev.json
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\ref\LED GUI.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.pdb
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csprojAssemblyReference.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED_GUI.Form1.resources
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csproj.GenerateResource.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.AssemblyInfoInputs.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.AssemblyInfo.cs
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csproj.CoreCompileInputs.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\ref\LED GUI.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.pdb
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.genruntimeconfig.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csproj.CopyComplete
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.exe
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.deps.json
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.runtimeconfig.json
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.runtimeconfig.dev.json
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\ref\LED GUI.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\LED GUI.pdb
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csprojAssemblyReference.cache
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED_GUI.Form1.resources
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csproj.GenerateResource.cache
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.AssemblyInfoInputs.cache
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.AssemblyInfo.cs
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csproj.CoreCompileInputs.cache
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.csproj.CopyComplete
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\ref\LED GUI.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.pdb
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED GUI.genruntimeconfig.cache
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED_GUI.Properties.Resources.resources
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\NAudio.Core.dll
+C:\Users\kingm\OneDrive\바탕 화면\kmu\GP2\LED GUI\LED GUI\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\NAudio.Core.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+C:\Users\kingm\Downloads\LED GUI\LED GUI\obj\Debug\net5.0-windows\LED_GUI.Properties.Resources.resources
